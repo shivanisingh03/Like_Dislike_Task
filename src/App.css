@@ -1,0 +1,29 @@
+#maindiv{
+  width: 18vw;
+  height: 18vh;
+  border:1px solid black;
+  margin: auto;
+  margin-top: 15vw;
+  box-shadow: 0.01rem 0.2rem 0.5rem 0.5rem rgba(0, 0, 0, 0.4);
+
+
+}
+
+h1{
+  margin-left: 8vw;
+}
+
+#button2{
+  margin-left: 10vw; 
+
+}
+
+
+#button1:focus {
+      
+  background-color: green;    
+}
+
+#button2:focus {     
+  background-color:red;    
+}
